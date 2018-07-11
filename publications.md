@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-
+- <b>Yan Wang</b>, Yuyin Zhou, Peng Tang, Wei Shen, Elliot K. Fishman, Alan Yuille. Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Granada, Spain, 2018
 - Ruiqi Zhao, <b>Yan Wang</b>, Aleix M. Martinez. "A Simple, Fast and Highly-Accurate Algorithm to Recover 3D Shape from 2D Landmarks on a Single Image". IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2017.
 - Yuyin Zhou, Lingxi Xie, Wei Shen, <b>Yan Wang</b>, Elliot Fishman and Alan Yuille. "A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans". International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Quebec City, Canada, 2017.
 - Wei Shen, Kai Zhao, Yuan Jiang, <b>Yan Wang</b>, Xiang Bai, and Alan Yuille. "DeepSkeleton: Learning Multi-task Scale-associated Deep Side Outputs for Object Skeleton Extraction in Natural Images". IEEE Transactions on Image Processing, 2017
