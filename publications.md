@@ -2,6 +2,13 @@
 layout: page
 title: Publications
 ---
+- <b>Yan Wang</b>, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, Wei Shen, Elliot Fishman, Alan Yuille. Deep Distance Transform for Tubular Structure Segmentation in CT Scans. IEEE Conference on Computer Vision and Pattern Recognition (CVPR, Oral presentation), Seattle, USA, 2020
+- Zhishuai Zhang, Wei Shen, Siyuan Qiao, <b>Yan Wang</b>, Bo Wang, Alan Yuille. Robust Face Detection via Learning Small Faces on Hard Images. IEEE Winter Conference on Applications of Computer Vision (WACV), Colorado, USA, 2020
+- Wei Shen, Yilu Guo, <b>Yan Wang</b>, Kai Zhao, Bo Wang, Alan Yuille. Deep Differentiable Random Forests for Age
+Estimation. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2019
+- Lingxi Xie, Qihang Yu, <b>Yan Wang</b>, Yuyin Zhou, Elliot Fishman and Alan Yuille. Recurrent Saliency Transformation Network for Tiny Target Segmentation in Abdominal CT Scans. IEEE Transactions on Medical Imaging, 2019
+- Yuyin Zhou, Yingwei Li, Zhishuai Zhang, <b>Yan Wang</b>, Angtian Wang, Elliot Fishman, Alan Yuille and Seyoun Park. Hyper-pairing Network for Multi-phase Pancreatic Ductal Adenocarcinoma Segmentation. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI). Shenzhen, China, 2019
+- Yuyin Zhou, David Dreizin, Yingwei Li, Zhishuai Zhang, <b>Yan Wang</b> and Alan Yuille. Multi-Scale Attentional Network for Multi-Focal Segmentation of Active Bleed after Pelvic Fractures. International Workshop on Machine Learning in Medical Imaging (MLMI-MICCAI), 2019
 - <b>Yan Wang</b>, Yuyin Zhou, Wei Shen, Seyoun Park, Elliot K. Fishman, Alan Yuille. "Abdominal multi-organ segmentation with organ-attention networks and statistical fusion". Medical Image Analysis (MIA), 2019
 - Yuyin Zhou, <b>Yan Wang</b>, Peng Tang, Song Bai, Wei Shen, Elliot K. Fishman, Alan Yuille. "Semi-Supervised 3D Multi-Organ Segmentation via Deep Multi-Planar Co-Training". IEEE Winter Conference on Applications of Computer Vision (WACV), Hawaii, USA, 2019 
 - <b>Yan Wang</b>, Yuyin Zhou, Peng Tang, Wei Shen, Elliot K. Fishman, Alan Yuille. "Training Multi-organ Segmentation Networks with Sample Selection by Relaxed Upper Confident Bound". International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Granada, Spain, 2018
