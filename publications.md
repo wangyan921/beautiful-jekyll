@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 ---
+- Shuhao Fu, Yongyi Lu, <b>Yan Wang</b>, Yuyin Zhou, Wei Shen, Elliot Fishman, Alan Yuille. Domain Adaptive Relational Reasoning for 3D Multi-Organ Segmentation. International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), Lima Peru, 2020.
 - <b>Yan Wang</b>, Xu Wei, Fengze Liu, Jieneng Chen, Yuyin Zhou, Wei Shen, Elliot Fishman, Alan Yuille. Deep Distance Transform for Tubular Structure Segmentation in CT Scans. IEEE Conference on Computer Vision and Pattern Recognition (CVPR, Oral presentation), Seattle, USA, 2020
 - Zhishuai Zhang, Wei Shen, Siyuan Qiao, <b>Yan Wang</b>, Bo Wang, Alan Yuille. Robust Face Detection via Learning Small Faces on Hard Images. IEEE Winter Conference on Applications of Computer Vision (WACV), Colorado, USA, 2020
 - Wei Shen, Yilu Guo, <b>Yan Wang</b>, Kai Zhao, Bo Wang, Alan Yuille. Deep Differentiable Random Forests for Age
